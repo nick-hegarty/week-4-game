@@ -1,0 +1,13 @@
+body{
+	background-color: white;
+}
+
+header{
+	text-align: center;
+}
+
+.rules{
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+}
