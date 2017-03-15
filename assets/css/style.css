@@ -11,3 +11,8 @@ header{
 	text-align: center;
 	margin: 0 auto;
 }
+
+.crystal-image {
+  width: 100px;
+  height: 100px;
+}
